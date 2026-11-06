@@ -1,0 +1,51 @@
+label	kind	message
+scam	digital_arrest	This is Senior Inspector Rathore, Central Bureau of Investigation. A SIM card issued on your Aadhaar is linked to a fraud case. Do not cut this call and cooperate on video.
+scam	digital_arrest	Hello, FedEx customer care. Your parcel to Iran with 4 passports and illegal tablets is in your name. Call the cyber police by pressing 1 or you will be arrested.
+scam	digital_arrest	Sir aapka number illegal kaam mein use hua hai. Police aapko giraftar karegi. Abhi Skype par aaiye aur kisi ko mat bataiye.
+scam	digital_arrest	Your account has been frozen by the Enforcement Directorate for suspicious transactions. Move your funds to the RBI escrow account to verify them and get them back.
+scam	digital_arrest	Dear citizen, a Mumbai court has issued summons in your name. To avoid immediate arrest pay the penalty of Rs 18,000 through UPI to this officer.
+scam	digital_arrest	Your relative met with an accident and needs urgent surgery money. Send Rs 40,000 to this account now, do not call him.
+scam	malicious_app	Sir, your Hero electric scooter subsidy needs verification. Please install the PM EV app from http://pm-ev-subsidy.top/app.apk
+scam	malicious_app	I am from Airtel support. To cancel the wrong recharge please open Play Store, install Quick Support and read me the code on your screen.
+scam	malicious_app	Your Aadhaar-linked bank account needs re-KYC. Open this link and install Bank_Update.apk then allow all permissions.
+scam	malicious_app	Dear user, install our Rummy app, deposit Rs 500 and win Rs 50000 daily. Download: http://rummy-win-big.xyz/rummy.apk
+scam	malicious_app	WhatsApp: Download the new version at http://wa-update-official.top/WhatsApp.apk to avoid account ban.
+scam	phishing	Your Paytm Payments Bank account is on hold. Complete video KYC today: http://paytm-bank-kyc.top/vkyc
+scam	phishing	Dear customer, your ICICI credit card has an unpaid bill of Rs 8,900. Pay now to avoid penalty: http://icici-card-dues.icu/pay
+scam	phishing	Amazon Prime membership payment failed. Update your card: http://amazon-prime-billing.click/update
+scam	phishing	Aapka Aadhaar suspend hone wala hai. Turant verify karein: http://uidai-verify-now.xyz/aadhaar
+scam	phishing	Your DTH recharge has expired. Recharge now and get a free month: http://tatasky-recharge-offer.top/pay
+scam	phishing	Your electricity refund of Rs 1,840 is ready. Claim it here: https://tinyurl.com/refund-claim-9x
+scam	phishing	Dear Axis customer, your account will be debited Rs 4,999 for Norton. To cancel click http://axisbank.cancel-order.xyz
+scam	other	Congrats! Your SBI credit card is pre-approved for Rs 5 lakh. Share Aadhaar and PAN to activate.
+scam	other	Dear sir, you have received a Rs 12,000 payment request from OLX buyer. Enter your UPI PIN to accept.
+scam	other	Join our trading group. Our expert gives 100 percent sure profit tips. Pay Rs 2999 membership. Telegram only.
+scam	other	Hi, I am Priya from Naukri. Pay Rs 1200 registration to confirm your work from home job at Google.
+scam	other	Rs 49,999 debited from your HDFC account for iPhone purchase. If not you, call our fraud team on 9810045566 immediately.
+scam	other	Your PAN card has been temporarily suspended. Reply with your PAN, date of birth and mother's maiden name to restore it.
+scam	other	Lucky draw: you won a Royal Enfield! Pay Rs 2,500 delivery tax to claim.
+safe	bank	Your OTP for Swiggy login is 902331. Do not share it with anyone. It is valid for 5 minutes.
+safe	bank	Rs 2,350.00 credited to your A/c XX3310 on 06-11-26 by UPI from Rohit S. Available balance Rs 14,220.
+safe	bank	HDFC Bank NetBanking: You have successfully logged in on 6 Nov at 10:12 PM. If this was not you, call 1800 202 6161.
+safe	bank	Dear customer, your KYC is due for renewal by 31 Dec. Please visit your nearest branch with ID proof. - Union Bank
+safe	bank	Your Kotak credit card ending 1209 was used for Rs 3,420 at Amazon. Not you? Call 1860 266 0000 immediately.
+safe	bank	Your LIC premium of Rs 5,000 has been received. Policy number 123456789. Thank you.
+safe	bank	Your Google Pay payment of Rs 85 to Rapido was successful.
+safe	delivery	Your Zepto order has been packed and will reach you in 10 minutes.
+safe	delivery	Uber: Your ride with Anil is complete. Fare Rs 212. Thanks for riding.
+safe	delivery	Your Flipkart return request has been approved. Refund of Rs 899 will reach your account in 3-5 working days.
+safe	delivery	Your BookMyShow tickets for Saturday 8 PM are confirmed. Booking ID BMS55120. Show the QR at entry.
+safe	utility	Your Airtel Xstream box installation is scheduled for tomorrow 11 AM. Technician Raju will call before arriving.
+safe	utility	Your water bill of Rs 312 for October has been generated. Pay at the BWSSB office or official app by 25 Nov.
+safe	utility	The RTO has scheduled your driving test on 18 Nov at 10 AM. Carry your learner licence and a photo ID.
+safe	personal	Reminder: Fee payment for semester 3 is due on 15 Nov. Pay through the college ERP only.
+safe	personal	Mom: Do not forget to carry your umbrella, it may rain tonight.
+safe	personal	Cricket practice cancelled today due to rain. Will inform about the next session.
+safe	personal	Dear parent, PTM is scheduled on Saturday 9 AM at school. Please attend.
+safe	personal	Bro the hackathon prototype is working. Check the demo link once you reach.
+safe	personal	Aaj raat dinner pe kya banega? Mummy puch rahi hain.
+safe	awareness	Cyber Cell advisory: scammers pretend to be police officers on video calls. Do not transfer money. Dial 1930 if you receive such a call.
+safe	awareness	Cyber safety week: learn to spot fake KYC messages. Seminar at 2 PM in the auditorium, everyone welcome.
+safe	awareness	Delhi Police has announced a traffic advisory for the Republic Day parade. Roads near India Gate will be closed from 6 AM.
+safe	official_link	Install Microsoft Teams from the Play Store https://play.google.com/store/apps/details?id=com.microsoft.teams for tomorrow's online class.
+safe	official_link	Hi Jatin, your Coursera certificate is ready. View it at https://www.coursera.org/account/accomplishments

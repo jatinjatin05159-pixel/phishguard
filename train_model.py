@@ -31,6 +31,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MODEL_OUTPUT_PATH = os.path.join(BASE_DIR, "sms_spam_model.pkl")
 LOCAL_DATA_FILE = os.path.join(BASE_DIR, "sms_spam_collection.tsv")
 INDIAN_DATA_FILE = os.path.join(BASE_DIR, "indian_scam_dataset.tsv")
+SCAM_TYPES_FILE = os.path.join(BASE_DIR, "scam_types_dataset.tsv")
 
 DATA_URLS = [
     "https://raw.githubusercontent.com/justmarkham/DAT8/master/data/sms.tsv",
@@ -104,6 +105,17 @@ def load_dataset():
             dfs.append(indian_df[indian_df['label'] == 'spam']) # Boost Indian scam representation
         except Exception as e:
             print(f"[-] Could not load Indian dataset: {e}")
+
+    # 3. Digital-arrest, malicious-app (APK / remote access) and other scam examples,
+    #    plus hard 'safe' messages (real bank alerts, official links, scam-awareness warnings)
+    if os.path.exists(SCAM_TYPES_FILE):
+        try:
+            types_df = pd.read_csv(SCAM_TYPES_FILE, sep="\t", encoding="utf-8")
+            print(f"[+] Loaded {len(types_df)} digital-arrest / malicious-app / hard-safe samples.")
+            dfs.append(types_df)
+            dfs.append(types_df[types_df['label'] == 'spam'])   # boost these new scam types
+        except Exception as e:
+            print(f"[-] Could not load scam-types dataset: {e}")
 
     # Merge all data sources
     combined_df = pd.concat(dfs, ignore_index=True)
